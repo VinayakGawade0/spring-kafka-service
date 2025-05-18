@@ -73,4 +73,6 @@ All Kafka and Spring Boot properties can be configured in `src/main/resources/ap
 
 ---
 
-MIT License @ Vinayak Gawade
+## 📝 License
+
+This project is licensed under the MIT License © Vinayak Gawade.
